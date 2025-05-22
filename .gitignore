@@ -1,0 +1,6 @@
+# .gitignore
+node_modules/
+.expo/
+.vscode/
+.env
+*.log
